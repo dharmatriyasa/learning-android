@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="user_name">Dharma Triyasa</string>
+    <string name="title">Android and Flutter Developer</string>
+
+    <string name="phone_number">+62 812–3456–7890</string>
+    <string name="social_media">\@dharma_triyasa</string>
+    <string name="email">dharma.triyasa@android.com</string>
+</resources>
