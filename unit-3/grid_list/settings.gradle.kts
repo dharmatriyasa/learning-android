@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "kotlin fundamentals"
+rootProject.name = "Grid(List"
 include(":app")
+ 
