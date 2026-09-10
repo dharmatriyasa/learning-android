@@ -35,6 +35,7 @@ class AmphibianViewModel(private val amphibianRepository: AmphibianRepository) :
                 val result = amphibianRepository.getAmphibians()
                 AmphibianUiState.Success(result)
             } catch (e: Exception) {
+                println("Dharma ganteng e: $e")
                 AmphibianUiState.Error
             }
         }
