@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Bookshelf App</string>
+    <string name="loading_desc">Loading…</string>
+    <string name="error_desc">Connection Error</string>
+    <string name="failed_to_load">Failed to Load</string>
+    <string name="retry">Retry</string>
+    <string name="book_img_desc">Book Image</string>
 </resources>
